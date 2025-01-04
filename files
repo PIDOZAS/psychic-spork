@@ -1,0 +1,11 @@
+Library/bin/aws-c-sdkutils.dll
+Library/include/aws/sdkutils/aws_profile.h
+Library/include/aws/sdkutils/endpoints_rule_engine.h
+Library/include/aws/sdkutils/exports.h
+Library/include/aws/sdkutils/partitions.h
+Library/include/aws/sdkutils/resource_name.h
+Library/include/aws/sdkutils/sdkutils.h
+Library/lib/aws-c-sdkutils.lib
+Library/lib/aws-c-sdkutils/cmake/aws-c-sdkutils-config.cmake
+Library/lib/aws-c-sdkutils/cmake/shared/aws-c-sdkutils-targets-release.cmake
+Library/lib/aws-c-sdkutils/cmake/shared/aws-c-sdkutils-targets.cmake
